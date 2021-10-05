@@ -2,8 +2,8 @@
 
 ## Descargar archivo employees.sql
 
-## En la temrina o cmd ejecutar el comando:
-### `create databse employees;`
+## En la terminal o cmd ejecutar el comando:
+### `create database employees;`
 
-## Ejecutar el dump
+## Cargar el dump
 ### `mysql -u root -p employees < employees.sql`
